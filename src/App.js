@@ -7,7 +7,7 @@ const CompanyInfo = () => {
   const [error, setError] = useState(null);
   const [fetchNews, setFetchNews] = useState(false);
 
-  const API_KEY = 'cngv959r01qhlsli9ni0cngv959r01qhlsli9nig';
+  const API_KEY = 'cngvbipr01qhlsli9p1gcngvbipr01qhlsli9p20';
 
   const handleInputChange = (e) => {
     setTicker(e.target.value);
